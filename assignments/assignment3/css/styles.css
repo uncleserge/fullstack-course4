@@ -66,14 +66,11 @@ body {
 	text-decoration: none;
 	color: grey;
 }
-
 .back-to-top:hover {
 	text-shadow: 1px 1px 1px #222;
 	text-decoration: none;
 	color: grey;
 }
-
-
 .fake-content-tile {
 	height: 1000px;
 	background-color: white;
